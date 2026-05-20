@@ -1,12 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Idk i'm not a dev, dont ask me anything. If you want to build the app yourself maybe follow the following guide, if you just want to run it, download the apk in release. I made this with Google AI studio and i thought you guys might need it so I decided to share.
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/a24652d1-6913-4a38-903f-983d58808b3a
 
 ## Run Locally
 
