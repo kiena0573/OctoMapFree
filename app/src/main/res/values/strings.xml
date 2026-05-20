@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OctoMap</string>
+    <string name="accessibility_desc">OctoMap Service: Intercepts keyboard/gamepad events and translates them to on-screen touches.</string>
+</resources>
